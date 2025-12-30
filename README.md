@@ -1,4 +1,4 @@
-# flask_routes
+# FLASK ROUTES
 Creating routes in flask
 
 The objective of this code is define routes in flask. Routes are maps in Flask.
