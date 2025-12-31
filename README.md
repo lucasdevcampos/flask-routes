@@ -15,3 +15,5 @@ It’s a minimal example to show how Flask handles different URL endpoints.
 
 ## 📂 Project Structure
 - app.py
+- templates
+- home.html
